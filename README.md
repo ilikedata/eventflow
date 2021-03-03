@@ -1,1 +1,3 @@
-# eventflow
+# EventFlow
+
+Event based flows
